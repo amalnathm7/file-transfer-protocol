@@ -7,3 +7,10 @@ FTP is simulated using C language with the following operations:
 3. DOWNLOAD
 4. RENAME
 5. DELETE
+
+
+### References
+
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+
+https://en.wikipedia.org/wiki/FTP_server
