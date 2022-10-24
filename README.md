@@ -14,3 +14,5 @@ FTP is simulated using C language with the following operations:
 https://en.wikipedia.org/wiki/File_Transfer_Protocol
 
 https://en.wikipedia.org/wiki/FTP_server
+
+https://www.javatpoint.com/computer-network-ftp
